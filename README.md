@@ -11,7 +11,7 @@
 # Section
 
 ✔️ Summary and About me  
-✔️ Skills 
+✔️ Skills  
 ✔️ Open Source Projects Connected with Github  
 ✔️ Achievements And Certifications 🏆  
 ✔️ Blogs  
