@@ -10,15 +10,15 @@
 
 # Section
 
-✔️ Summary and About me
-✔️ Skills
-✔️ Open Source Projects Connected with Github
-✔️ Achievements And Certifications 🏆
-✔️ Blogs
-✔️ Contact me
-✔️ Twitter Timeline
-✔️ Github Profile
-✔️ LinkedIn Profile
+✔️ Summary and About me  
+✔️ Skills 
+✔️ Open Source Projects Connected with Github  
+✔️ Achievements And Certifications 🏆  
+✔️ Blogs  
+✔️ Contact me  
+✔️ Twitter Timeline  
+✔️ Github Profile  
+✔️ LinkedIn Profile  
 
  # Using Emojis
 For adding emoji 😃 into the texts in Portfolio.js, use the emoji() function and pass the text you need as an argument. This would help in keeping emojis compatible across different browsers and platforms. 
