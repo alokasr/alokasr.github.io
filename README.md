@@ -2,7 +2,6 @@
 
 # A simple, beautiful and responsive portfolio template for Developers!
 
-![Screenshot (15)](https://user-images.githubusercontent.com/71480401/112293764-7f260000-8cb8-11eb-811d-d4de27c9f9f0.png)
 
 ![Screenshott(27)](https://user-images.githubusercontent.com/71480401/112296320-cdd49980-8cba-11eb-9b4f-0511aec7f7a8.png)
 
