@@ -1,6 +1,6 @@
 # Software Developer Portfolio ⚡️!
 
-![Screenshot (13)](https://user-images.githubusercontent.com/71480401/112293760-7d5c3c80-8cb8-11eb-8c97-7c90e81db593.png)
+![](https://user-images.githubusercontent.com/71480401/112293760-7d5c3c80-8cb8-11eb-8c97-7c90e81db593.png)
 
 # A simple, beautiful and responsive portfolio template for Developers!
 
